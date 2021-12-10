@@ -2,6 +2,8 @@
 ## Case Competition Overview
 ### Challenge: Design an innovative technology solution that addresses a problem aligned to achieving accessible and equitable quality education
 Link: https://callforcode-platform.bemyapp.com/#/event
+![Spriha Ghosh - Renee Aid 001](https://user-images.githubusercontent.com/73738414/145506291-2108c9e0-37f9-43a8-aa98-ab94e70bdfd5.jpeg)
+
 
 The competition theme, "A future of education that ensures accessible and equitable quality education and promotes lifelong learning opportunities for all," was inspired by the United Nations Sustainable Development Goal 4
 
